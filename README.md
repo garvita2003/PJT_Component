@@ -7,48 +7,46 @@ Apply multiple Machine Learning Algorithm i.e Logistic Regression, MLP, Gaussian
 These are the Information regarding the various IDS Dataset used along with the technology and features used for evaluation:
 
 1.KDDCup99
-  - Dataset - KDDCup99
+  - Dataset - [KDDCup99](https://www.kaggle.com/datasets/venkatakanumuru/kddcup99csv)
   - Model used - GaussianNB, Logistic Regression, MLP
   - Performance - Ablation Analysis, Features Contribution to the model
   - Preprocessing - StandardScalar, etc
   - Evaluation - accuracy, precision, recall, f1-score, classification report, confusion matrix
 
 2. NF_BOT_IOT
-  - Dataset - NF_BOT_IOT
+  - Dataset - [NF_BOT_IOT](https://www.kaggle.com/datasets/dhoogla/nfbotiot)
   - Model used - Logistic Regression, MLP, GaussianNB
   - Performance - Ablation Analysis, Features Contribution to the model
   - Preprocessing - StandardScalar, etc
   - Evaluation - accuracy, precision, recall, f1-score, confusion matrix
 
 3. NF_TON_IOT
-  - Dataset - NF_TON_IOT
+  - Dataset - [NF_TON_IOT](https://www.kaggle.com/datasets/dhoogla/nftoniot)
   - Model used - Logistic Regression, MLP, GaussianNB
   - Performance - Ablation Analysis, Features Contribution to the model
   - Preprocessing - StandardScalar, etc
   - Evaluation - accuracy, precision, recall, f1-score, confusion matrix
 
 4. NF_UNSW_NB15
-  - Dataset - NF_UNSW_NB15
+  - Dataset - [NF_UNSW_NB15](https://www.kaggle.com/datasets/dhoogla/nfunswnb15)
   - Model used - Logistic Regression, MLP, GaussianNB
   - Performance - Ablation Analysis, Features Contribution to the model
   - Preprocessing - StandardScalar, etc
   - Evaluation - accuracy, precision, recall, f1-score, confusion matrix
 
 5. NIDS
-  - Dataset - NIDS
+  - Dataset - [NIDS](https://drive.google.com/file/d/1goG1sPMDuqBNVmGt_98ThpoQGJgoKMDC/view?usp=sharing)
   - Model used - GaussainNB, Logistic Regression, MLP
   - Performance - Ablation Analysis, Features Contribution to the model
   - Preprocessing - StandardScalar, LabelEncoder etc
   - Evaluation - accuracy, precision, recall, f1-score, confusion matrix, classification report
 
 6. NBAIOT
-  - Dataset - NBAIOT
+  - Dataset - [NBAIOT](https://www.kaggle.com/datasets/mkashifn/nbaiot-dataset)
   - Model used - Logistic Regression, MLP Classifier, GaussianNB
   - Performance - Ablation Analysis, Features Contribution to the model
   - Preprocessing - StandardScalar etc
   - Evaluation - accuracy, precision, recall, f1-score, confusion matrix
-
-Dataset - Click [here](https://drive.google.com/drive/folders/1Ec3NIDe87op31pJaAypRroa0KpWQwIGW?usp=sharing) to download the complete PJT Component Dataset
 
 
 # Techhnology Used:
